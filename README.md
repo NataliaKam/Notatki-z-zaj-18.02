@@ -3,6 +3,9 @@
 
 #Zadania dla studenta:
 [x] założyć konto na Github
-[x] zapoznać się w temacie _secure shell
+[x] zapoznać się w temacie _secure shell_
+
+##Informacje dodatkowe:
+
 
  
